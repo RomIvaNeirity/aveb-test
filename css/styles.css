@@ -1,0 +1,135 @@
+body {
+  font-family: "Times New Roman", sans-serif;
+  font-size: 120%;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  width: 250px;
+  height: 250px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+.container {
+  max-width: 1080px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.hero {
+}
+.hero-header {
+  text-align: center;
+  margin: 30px 0;
+}
+.hero-content {
+  margin-bottom: 30px;
+}
+.description {
+}
+.description-header {
+  margin: 30px 0;
+}
+.description-content {
+  margin-bottom: 20px;
+}
+.perf-types {
+}
+.types-header {
+  text-align: center;
+  margin: 30px 0;
+}
+.types-list {
+}
+.types-list-item {
+}
+.types-list-header {
+}
+
+.tech-spec-box {
+  border: 1px solid;
+  display: flex;
+  border-bottom: none;
+}
+
+.technical-specification {
+  list-style-type: disc;
+  margin-bottom: 50px;
+}
+
+.tech-spec-subbox {
+  border-left: 1px solid;
+
+  padding: 20px 0 20px 60px;
+}
+
+.bottomborder {
+  border-bottom: 1px solid;
+}
+
+.technical-specification-item {
+}
+.advantages {
+}
+.advantages-header {
+  text-align: center;
+  margin: 30px 0;
+}
+.advantages-quality-subheader {
+  margin-bottom: 50px;
+}
+
+.advant-quality-container {
+}
+.ceiling-image {
+  border: 1px solid;
+  margin-right: 30px;
+  float: left;
+  width: 45%;
+}
+.advant-quality-subcontainer {
+}
+
+.advantages-reliability-subheader {
+  text-align: center;
+  margin: 50px 0 30px 0;
+}
+
+.advantages-ulist {
+}
+.advantages-ulist-item {
+  margin-bottom: 20px;
+}
+
+.advant-reliability-container {
+  padding: 0 100px 50px 100px;
+}
+.advantages-olist-item {
+  margin-bottom: 20px;
+}
+.advantages-olist {
+}
