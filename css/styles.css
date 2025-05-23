@@ -68,6 +68,7 @@ p {
 .types-list-item {
 }
 .types-list-header {
+  margin-bottom: 10px;
 }
 
 .tech-spec-box {
