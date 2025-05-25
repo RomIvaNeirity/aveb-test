@@ -134,3 +134,14 @@ p {
 }
 .advantages-olist {
 }
+
+footer {
+  border: 1px solid;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.icon {
+}
